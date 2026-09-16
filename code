@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Tags - Nabeel Navas</title>
+</head>
+
+<body>
+
+    <h1>Introduction to HTML Tags</h1>
+
+    <p>
+        <strong>Created by:</strong> Nabeel Navas<br>
+        <strong>Type:</strong> Student<br>
+        <strong>Purpose:</strong> Learning and explaining HTML
+    </p>
+
+    <hr>
+
+    <h2>10 HTML Tags and Their Explanations</h2>
+
+    <ol>
+
+        <li>
+            <h3>&lt;html&gt; Tag</h3>
+            <p>
+                The <strong>&lt;html&gt;</strong> tag is the root element of an HTML document.
+                It contains all the other HTML elements on the page.
+            </p>
+        </li>
+
+        <li>
+            <h3>&lt;head&gt; Tag</h3>
+            <p>
+                The <strong>&lt;head&gt;</strong> tag contains information about the webpage,
+                such as the title, styles, and metadata. This information is usually not
+                displayed directly on the webpage.
+            </p>
+        </li>
+
+        <li>
+            <h3>&lt;title&gt; Tag</h3>
+            <p>
+                The <strong>&lt;title&gt;</strong> tag defines the title of the webpage.
+                It appears in the browser tab.
+            </p>
+        </li>
+
+        <li>
+            <h3>&lt;body&gt; Tag</h3>
+            <p>
+                The <strong>&lt;body&gt;</strong> tag contains the visible content of a
+                webpage, including text, images, links, and other elements.
+            </p>
+        </li>
+
+        <li>
+            <h3>&lt;h1&gt; Tag</h3>
+            <p>
+                The <strong>&lt;h1&gt;</strong> tag is used for the main heading of a webpage.
+                It is normally the most important heading on the page.
+            </p>
+        </li>
+
+        <li>
+            <h3>&lt;p&gt; Tag</h3>
+            <p>
+                The <strong>&lt;p&gt;</strong> tag is used to create a paragraph of text.
+            </p>
+        </li>
+
+        <li>
+            <h3>&lt;a&gt; Tag</h3>
+            <p>
+                The <strong>&lt;a&gt;</strong> tag creates a hyperlink.
+                It allows users to navigate to another webpage or location.
+            </p>
+        </li>
+
+        <li>
+            <h3>&lt;img&gt; Tag</h3>
+            <p>
+                The <strong>&lt;img&gt;</strong> tag is used to display an image on a webpage.
+                It commonly uses the <strong>src</strong> attribute to specify the image location.
+            </p>
+        </li>
+
+        <li>
+            <h3>&lt;ul&gt; Tag</h3>
+            <p>
+                The <strong>&lt;ul&gt;</strong> tag creates an unordered list.
+                Items in the list are normally displayed with bullet points.
+            </p>
+        </li>
+
+        <li>
+            <h3>&lt;br&gt; Tag</h3>
+            <p>
+                The <strong>&lt;br&gt;</strong> tag inserts a line break in the text.
+                It is useful when you want to move content to a new line.
+            </p>
+        </li>
+
+    </ol>
+
+    <hr>
+
+    <h2>Conclusion</h2>
+
+    <p>
+        HTML tags are the basic building blocks of webpages. By learning these
+        tags, beginners can start creating structured and useful webpages.
+    </p>
+
+</body>
+</html>
